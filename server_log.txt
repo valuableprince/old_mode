@@ -1,0 +1,85 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:28:39] filterscripts = ""  (string)
+[15:28:39] 
+[15:28:39] Server Plugins
+[15:28:39] --------------
+[15:28:39]  Loading plugin: dc_cmd.so
+[15:28:39]   Daniel''s CMD plugin v2.01
+[15:28:39]   Loaded.
+[15:28:39]  Loading plugin: mysql.so
+[15:28:39]   Failed (libmysqlclient_r.so.15: cannot open shared object file: No such file or directory)
+[15:28:39]  Loading plugin: regex.so
+[15:28:39] 
+
+[15:28:39] ______________________________________
+
+[15:28:39]  Regular Expression Plugin v0.2.1 loaded
+[15:28:39] ______________________________________
+
+[15:28:39]  By: Fro (c) Copyright <TBG> 2009-2011
+[15:28:39] ______________________________________
+
+[15:28:39]   Loaded.
+[15:28:39]  Loading plugin: sscanf.so
+[15:28:39] 
+
+[15:28:39]  ===============================
+
+[15:28:39]       sscanf plugin loaded.     
+
+[15:28:39]          Version:  2.8.1        
+
+[15:28:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:28:39]  ===============================
+
+[15:28:39]   Loaded.
+[15:28:39]  Loading plugin: streamer.so
+[15:28:39] 
+
+*** Streamer Plugin v2.7.7 by Incognito loaded ***
+
+[15:28:39]   Loaded.
+[15:28:39]  Loading plugin: sql.so
+[15:28:39]   >> SQL plugin v2.6 successfully loaded.
+[15:28:39]       + MySQL support is enabled.
+[15:28:39]   Loaded.
+[15:28:39]  Loading plugin: mysql_static.so
+[15:28:39]   Failed (plugins/mysql_static.so: cannot open shared object file: No such file or directory)
+[15:28:39]  Loaded 5 plugins.
+
+[15:28:40] 
+[15:28:40] Filterscripts
+[15:28:40] ---------------
+[15:28:40]   Loaded 0 filterscripts.
+
+[15:28:41]  
+[15:28:41]  
+[15:28:41]  
+[15:28:41]  ======================================= 
+[15:28:41]  |                                     | 
+[15:28:41]  |        YSI version 1.06.0002        | 
+[15:28:41]  |        By Alex "Y_Less" Cole        | 
+[15:28:41]  |                                     | 
+[15:28:41]  ======================================= 
+[15:28:41]  
+[15:28:41] [plugin.sql][warning] Natives::sql_debug: Switching the log levels to (7, 3)...
+[15:28:41] DOOME CONNECT - Идёт подключение к базе данных: gs35688
+[15:28:41] > [Загрузка мэрии]: Было загружено - потрачено 12 (ms)
+[15:28:45] > [Загрузка домов] 822 загружено
+[15:28:46] Кол-во заправок в базе не совпадает с предопределным количеством
+[15:28:46] ----------------------------------------------------------
+[15:28:46]               Разработчик: Максим Назаров                 
+[15:28:46]                   vk: vk.com/markelou                     
+[15:28:46]                  skype: maxim.nazarov16                   
+[15:28:46] ----------------------------------------------------------
+[15:28:46]                    Сервер запущен!                        
+[15:28:46] Number of vehicle models: 113
